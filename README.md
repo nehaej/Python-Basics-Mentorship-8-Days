@@ -9,7 +9,7 @@ MENTORSHIP SYLLABUS  ❤️❤️❤️
 |-----|-------|---------------|------------------|--------|
 |**1**| Foundations | `input()`, `print()`, Type Conversions | KSRTC Digital Ticket | ✅ |
 |**2**| Logic & Operators | Comparison/Arithmetic, `if/elif/else` | Voter Eligibility & Discount Calc | ✅ |
-|**3**| Complex Logic | Logical Operators (`AND/OR/NOT`) | Grade Finder | ⏳ |
+|**3**| Complex Logic | Logical Operators (`AND/OR/NOT`) | Grade Finder | ✅ |
 |**4**| Arithmetic Apps | Math Ops Revision | Rubber Farmer Profit Calc | ⏳ |
 |**5**| Data Collections | Lists, `append()`, `len()` | Grocery List Manager | ⏳ |
 |**6**| Iteration | `while` loops | Password Security System | ⏳ |
@@ -27,3 +27,13 @@ I gave them problem questions and guided examples that directly linked to real w
 
 # GOAL 🎯
 My goal was to make coding accessible to everyone even if they didn't have their own laptop. Most of my students were actually pretty intimidated by the idea of programming at first, so I wanted to show them that it isn't as scary as it looks. By using local examples they already knew, like KSRTC bus tickets and farming profits, I helped them move past that fear. I wanted to turn them from people who just use apps into creators who actually understand the logic behind them.
+
+# BEFORE 
+A survey was conducted prior to starting the mentorship :
+* It was discovered that :
+* 100% of students had zero coding experience 
+* 50% reported they were "very afraid" or "slightly scared" of coding
+* 25% reported that they don't have a stable internet connection
+* 75% reported wanting to build tools that could benefit themselves and their community but didn't have the skillset to do so.
+
+
