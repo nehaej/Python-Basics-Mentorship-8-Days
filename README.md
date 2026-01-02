@@ -36,4 +36,22 @@ A survey was conducted prior to starting the mentorship :
 * 25% reported that they don't have a stable internet connection
 * 75% reported wanting to build tools that could benefit themselves and their community but didn't have the skillset to do so.
 
+# AFTER
+OVERALL OPINION 
+My students shared that the lessons were understandable, noting that the curriculum was paced to be challenging yet manageable. 
+Hearing that I was a 'great teacher' was rewarding, but more importantly it confirmed my beliefs that tech needs to be more accessible to include students who have a will to learn but not enough resources.
+By carefully crafting a curriculum that could get basic concepts across without choking them with unfamiliar information, I was able to gain favourable responses, engagement and create genuine CS interest.
+
+MEMORABLE THOUGHTS
+- "Originally, I only decided to join because Ali was coming. I thought Computer Science would be really boring and hard. 
+But it turned out to be fun, the quizes you conducted were really cool and I loved competing with others to see who can get the answer the quickest. 
+Your way of explaining concepts and repeating them as many times as needed made me really grateful."
+
+- "Actually Im a bio student with a fear of coding but an interest in CS. Expensive outside classes for coding weren't an option so these classes were very useful. 
+They were free and online which made them easy to attend. And the method of teaching, made it so I could follow along easily even if i didn't have my own laptop."
+
+- "One part I sturggled with was if/elif logic. I couldn't properly understand what difference it would make if I used multiple if statements instead of if + elif. 
+But the way you explained it using "group" analogies and showing me flowchart diagrams really made me understand it perfectly. I also love the quiz sessions you conduct at the end of every lesson.
+It's really useful to check how much I truly understood and which concepts are still confusing."
+
 
