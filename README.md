@@ -12,9 +12,9 @@ MENTORSHIP SYLLABUS  ❤️❤️❤️
 |**3**| Complex Logic | Logical Operators (`AND/OR/NOT`) | Grade Finder | ✅ |
 |**4**| Arithmetic Apps | Math Ops Revision, Create Calculator, Tuples| Rubber Farmer Profit Calc | ✅ |
 |**5**| Data Collections | Lists: Intro, Slicing, Functions| Grocery List Manager | ✅ |
-|**6**| Iteration | `while` loops | Password Security System | ⏳ |
-|**7**| Planning | Flowcharts & Logic Mapping | Final Project Blueprint | ⏳ |
-|**8**| Capstone | Code Documentation & Peer Review | **Final Project Submission** | ⏳ |
+|**6**| Iteration | `while` loops | Password Security System | ✅ |
+|**7**| Planning | Flowcharts & Logic Mapping | Final Project Blueprint | ✅ |
+|**8**| Capstone | Code Documentation & Peer Review | **Final Project Submission** | ✅ |
 
 
 # TEACHING METHODOLOGY 💡
